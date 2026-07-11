@@ -48,4 +48,4 @@ Lagrange's Equations,1788,Joseph-Louis Lagrange,Italy/France,30,Classical mechan
 Related
  https://en.wikipedia.org/wiki/In_Pursuit_of_the_Unknown Related
 
-Built with Scroll v177.0.0
+Built with Scroll v178.2.3
