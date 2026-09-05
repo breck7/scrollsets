@@ -4,7 +4,7 @@
   "description": "Test Repo for ScrollSets",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breck7/sets.scroll.pub"
+    "url": "git+https://github.com/breck7/sets.scoll.surf"
   },
   "author": "Breck Yunits",
   "scripts": {
@@ -13,7 +13,7 @@
     "open": "open index.html",
     "up": "npm install scroll-cli@latest"
   },
-  "homepage": "https://sets.scroll.pub",
+  "homepage": "https://sets.scoll.surf",
   "dependencies": {
     "scroll-cli": "^177.0.0"
   }
