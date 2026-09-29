@@ -1,4 +1,4 @@
-baseUrl https://scoll.surf/
+baseUrl https://scroll.surf/
 buildTxt sitemap.txt
 
 printSiteMap

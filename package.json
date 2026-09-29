@@ -13,7 +13,7 @@
     "open": "open index.html",
     "up": "npm install scroll-cli@latest"
   },
-  "homepage": "https://sets.scoll.surf",
+  "homepage": "https://sets.scroll.surf",
   "dependencies": {
     "scroll-cli": "^177.0.0"
   }
