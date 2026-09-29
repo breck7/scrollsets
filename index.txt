@@ -10,27 +10,27 @@ ScrollSet Examples
 
 Speed Of Sound
 ==============
-09/05/2026
+09/29/2026
 https://sets.scoll.surf/speedOfSound.html
 
 Quant Finance
 =============
-09/05/2026
+09/29/2026
 https://sets.scoll.surf/quantFinance.html
 
 Home Building Formulas
 ======================
-09/05/2026
+09/29/2026
 https://sets.scoll.surf/homeBuildingFormulas.html
 
 Bridge Building Formulas
 ========================
-09/05/2026
+09/29/2026
 https://sets.scoll.surf/bridgeBuildingFormulas.html
 
 Best Lumber
 ===========
-09/05/2026
+09/29/2026
 https://sets.scoll.surf/bestLumber.html
 
 The Four Fundamental Forces

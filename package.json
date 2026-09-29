@@ -4,7 +4,7 @@
   "description": "Test Repo for ScrollSets",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breck7/sets.scoll.surf"
+    "url": "git+https://github.com/breck7/scrollsets"
   },
   "author": "Breck Yunits",
   "scripts": {
